@@ -171,29 +171,29 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: #0ed0f3;
+    color: #001d3b;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    color: #0ed0f3;
+    color: #005a91;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #0ed0f3;
+    color: #005a91;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #0ed0f3;
+    color: #005a91;
     background-color: transparent;
 }
 
 .navStyle > li.active > a,
 .navStyle > li.active > a:hover {
     text-decoration: none;
-    color: #0ed0f3;
+    color: #005a91;
     background-color: transparent;
 }
 

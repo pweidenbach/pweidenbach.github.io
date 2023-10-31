@@ -171,29 +171,29 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: #df0031;
+    color: #001d3b;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    color: #df0031;
+    color: #001d3b;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #df0031;
+    color: #001d3b;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #df0031;
+    color: #001d3b;
     background-color: transparent;
 }
 
 .navStyle > li.active > a,
 .navStyle > li.active > a:hover {
     text-decoration: none;
-    color: #df0031;
+    color: #001d3b;
     background-color: transparent;
 }
 
@@ -213,7 +213,7 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #df0031;
+    background: #001d3b;
     position: relative;
 }
 
@@ -287,7 +287,7 @@ a.read_more2 {
 
 a.read_more2:hover {
     background: #fff;
-    color: #df0031;
+    color: #001d3b;
     border: 1px solid #fff;
 }
 
@@ -321,7 +321,7 @@ a.read_more2:hover {
 }
 
 .service_icon {
-    border: 2px solid #df0031;
+    border: 2px solid #001d3b;
     border-radius: 50%;
     width: 90px;
     height: 90px;
@@ -329,11 +329,11 @@ a.read_more2:hover {
 }
 
 .service_icon.icon2 {
-    border: 2px solid #df0031;
+    border: 2px solid #001d3b;
 }
 
 .service_icon.icon3 {
-    border: 2px solid #df0031;
+    border: 2px solid #001d3b;
 }
 
 .service_icon span {
@@ -345,7 +345,7 @@ a.read_more2:hover {
 }
 
 .service_icon i {
-    color: #df0031;
+    color: #001d3b;
     font-size: 40px;
     margin-top: 0;
     position: relative;
@@ -438,18 +438,18 @@ a.contact_btn {
     text-align: center;
     line-height: 49px;
     font-size: 16px;
-    color: #df0031;
+    color: #001d3b;
     border-radius: 3px;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    border: 2px solid #df0031;
+    border: 2px solid #001d3b;
     transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
 }
 
 a.contact_btn:hover {
-    background: #df0031;
+    background: #001d3b;
     color: #fff;
 }
 
@@ -494,7 +494,7 @@ a.contact_btn:hover {
 }
 
 .Portfolio-nav li a:hover {
-    background: #df0031;
+    background: #001d3b;
     color: #fff;
     text-decoration: none;
 }
@@ -524,7 +524,7 @@ a.contact_btn:hover {
 }
 
 .Portfolio-nav li a.current {
-    background: #df0031;
+    background: #001d3b;
     color: #fff;
     text-decoration: none;
 }
@@ -614,7 +614,7 @@ img {
 
 
 .client_logos {
-    background: #df0031;
+    background: #001d3b;
     padding: 60px 0;
     margin-top: 60px;
 }
@@ -694,7 +694,7 @@ img {
     display: block;
     width: 100%;
     height: 100%;
-    border-bottom: 4px solid #df0031;
+    border-bottom: 4px solid #001d3b;
 }
 
 .team_box:hover .team_box_shadow {
@@ -798,7 +798,7 @@ img {
 }
 
 .contact_block_icon.icon2 {
-    border-color: #df0031;
+    border-color: #001d3b;
 }
 
 .contact_block_icon.icon3 {
@@ -815,11 +815,11 @@ img {
 }
 
 .contact_block_icon.icon2 {
-    border-color: #df0031;
+    border-color: #001d3b;
 }
 
 .contact_block_icon.icon2 span {
-    background: #df0031;
+    background: #001d3b;
 }
 
 .contact_block_icon.icon3 {
@@ -957,7 +957,7 @@ img {
     width: 175px;
     height: 50px;
     letter-spacing: 0px;
-    background: #df0031;
+    background: #001d3b;
     border-radius: 3px;
     color: #ffffff;
     font-size: 16px;
@@ -995,7 +995,7 @@ img {
 
 .footer_bottom span a {
     display: inline-block;
-    color: #df0031;
+    color: #001d3b;
     font-size: 16px;
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -1115,9 +1115,9 @@ img {
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
     background: #fff;
-    color: #df0031;
+    color: #001d3b;
     text-decoration: none;
-    border: #df0031 solid 1px;
+    border: #001d3b solid 1px;
 }
 
 .section-title h2 {
@@ -1686,7 +1686,7 @@ font-size: 30px;
 padding: 60px 0 50px;
 } 
 .navbar-inverse .navbar-toggle .icon-bar{
-background:#df0031;
+background:#001d3b;
 }
 .navbar-inverse .navbar-toggle {
 border-color: transparent;

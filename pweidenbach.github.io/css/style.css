@@ -106,6 +106,8 @@ p {
 
 .logo {
     float: left;
+	max-width: 200px;  /* Set to the maximum desired width */
+    height: auto;  /* Maintain aspect ratio */
     margin-top: 8px;
 	position: relative;
 	z-index: 2;
